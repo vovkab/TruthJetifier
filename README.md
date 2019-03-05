@@ -1,5 +1,6 @@
 # TruthJetifier
 
+```
 $ gradlew clean test
 > Task :app:compileDebugUnitTestKotlin FAILED
 
@@ -23,3 +24,4 @@ See https://docs.gradle.org/5.1.1/userguide/command_line_interface.html#sec:comm
 
 BUILD FAILED in 3s
 16 actionable tasks: 15 executed, 1 up-to-date
+```
